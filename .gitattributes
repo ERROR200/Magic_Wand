@@ -1,2 +1,0 @@
-Content/** filter=lfs diff=lfs merge=lfs -text
-Brad_Level_BuiltData.uasset filter=lfs diff=lfs merge=lfs -text
